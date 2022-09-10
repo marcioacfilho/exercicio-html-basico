@@ -1,2 +1,2 @@
 # exercicio-html-basico
- atividade 08/09
+ Repositório com exercícios de html basico
